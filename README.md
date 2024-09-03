@@ -27,6 +27,7 @@ How many numbers would you like?
 2
 Your password is 1Pk)(vU$e6
 
+
 ## Requirements
 
 - Python 3.x
