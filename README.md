@@ -17,7 +17,7 @@ This program prompts the user to input the desired number of letters, symbols, a
 ### Example
 
 If you want a password with 5 letters, 3 symbols, and 2 numbers, you would input the following:
-
+   ```bash
 Welcome to the PyPassword Generator!
 How many letters would you like in your password?
 5
@@ -25,7 +25,6 @@ How many symbols would you like?
 3
 How many numbers would you like?
 2
-The resulting password might look like this:
 Your password is 1Pk)(vU$e6
 
 ## Requirements
